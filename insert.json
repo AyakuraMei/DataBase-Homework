@@ -1,0 +1,5 @@
+{'_id': ObjectId('5dc7cf9951dfe39a9c33a9c5'), 'x': 0, 'y': 0}
+{'_id': ObjectId('5dc7cf9951dfe39a9c33a9c6'), 'x': 1, 'y': 1}
+{'_id': ObjectId('5dc7d095d89dc5e483464608'), 'x': 2, 'y': 2}
+{'_id': ObjectId('5dc7d095d89dc5e483464609'), 'x': 3, 'y': 3}
+{'_id': ObjectId('5dc7d095d89dc5e48346460a'), 'x': 4, 'y': 4}
